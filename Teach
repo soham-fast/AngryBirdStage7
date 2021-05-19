@@ -1,0 +1,17 @@
+Datatypes
+ var name="soham"  // string
+ var number =2 ; //number
+ var visible=true  //Boolean data - true/false
+ var body=null; // no value
+
+
+Array is a datatype which contains multiple data
+you have to store inside [ ];
+total number of elements of an array is called as length
+Every element has a positional number , we call it index number
+index number starts with zero.
+To add element to an array, we use push();
+names.push("soham")
+To delete elements from an array we use pop();
+pop always deletes the last element.
+
